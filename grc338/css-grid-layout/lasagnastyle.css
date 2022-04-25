@@ -64,11 +64,11 @@ h3{
     font-weight: 300;  
     font-style: normal;
     text-transform: uppercase;
-    padding: 0rem 2rem 0rem;
+    padding: 0.5rem 0.5rem 0rem;
     color: rgb(240, 141, 91);
     letter-spacing: 0.125rem;
-    border-top: solid;  
-    padding-top: 2em;  
+    border-top: solid;  0.1rem rgb(255,136,0);
+    margin: 3rem 1.5rem 0rem;  
 }
 ul{
     padding: .5rem 1rem 1rem;
